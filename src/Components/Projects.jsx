@@ -1,7 +1,7 @@
 import React from 'react'
 import linkIcon from '../assets/images/link-out.png'
 import dashboard from '../assets/images/Dashboard.png'
-import hrApp from '../assets/images/hrapp.png'
+import hrApp from '../assets/images/HrApp.png'
 import stylecomp from '../assets/images/stylecomp.png'
 import estate from '../assets/images/estate.png'
 
